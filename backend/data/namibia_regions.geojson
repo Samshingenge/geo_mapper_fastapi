@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erongo",
+        "fiber_status": "Active",
+        "population": 150400,
+        "area_km2": 63200
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [14.5, -22.0],
+            [15.0, -22.5],
+            [15.5, -23.0],
+            [16.0, -23.5],
+            [15.5, -22.0],
+            [14.5, -22.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hardap",
+        "fiber_status": "Planned",
+        "population": 79500,
+        "area_km2": 109731
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [16.5, -24.0],
+            [17.0, -24.5],
+            [17.5, -25.0],
+            [18.0, -25.5],
+            [17.5, -24.0],
+            [16.5, -24.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karas",
+        "fiber_status": "Unavailable",
+        "population": 75600,
+        "area_km2": 161324
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.5, -26.0],
+            [16.0, -26.5],
+            [16.5, -27.0],
+            [17.0, -27.5],
+            [16.5, -26.0],
+            [15.5, -26.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavango East",
+        "fiber_status": "Planned",
+        "population": 115800,
+        "area_km2": 25351
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [19.5, -18.0],
+            [20.0, -18.5],
+            [20.5, -19.0],
+            [21.0, -19.5],
+            [20.5, -18.0],
+            [19.5, -18.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kavango West",
+        "fiber_status": "Unavailable",
+        "population": 107700,
+        "area_km2": 23452
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [18.5, -18.0],
+            [19.0, -18.5],
+            [19.5, -19.0],
+            [20.0, -19.5],
+            [19.5, -18.0],
+            [18.5, -18.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khomas",
+        "fiber_status": "Active",
+        "population": 342100,
+        "area_km2": 36964
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [16.5, -22.0],
+            [17.0, -22.5],
+            [17.5, -23.0],
+            [18.0, -23.5],
+            [17.5, -22.0],
+            [16.5, -22.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunene",
+        "fiber_status": "Unavailable",
+        "population": 86700,
+        "area_km2": 144254
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [13.5, -18.0],
+            [14.0, -18.5],
+            [14.5, -19.0],
+            [15.0, -19.5],
+            [14.5, -18.0],
+            [13.5, -18.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ohangwena",
+        "fiber_status": "Planned",
+        "population": 245100,
+        "area_km2": 10703
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [16.5, -17.0],
+            [17.0, -17.5],
+            [17.5, -18.0],
+            [18.0, -18.5],
+            [17.5, -17.0],
+            [16.5, -17.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omaheke",
+        "fiber_status": "Unavailable",
+        "population": 71400,
+        "area_km2": 84732
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [19.5, -22.0],
+            [20.0, -22.5],
+            [20.5, -23.0],
+            [21.0, -23.5],
+            [20.5, -22.0],
+            [19.5, -22.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omusati",
+        "fiber_status": "Planned",
+        "population": 242900,
+        "area_km2": 26651
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [14.5, -18.0],
+            [15.0, -18.5],
+            [15.5, -19.0],
+            [16.0, -19.5],
+            [15.5, -18.0],
+            [14.5, -18.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oshana",
+        "fiber_status": "Active",
+        "population": 176600,
+        "area_km2": 8653
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.5, -18.0],
+            [16.0, -18.5],
+            [16.5, -19.0],
+            [17.0, -19.5],
+            [16.5, -18.0],
+            [15.5, -18.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oshikoto",
+        "fiber_status": "Planned",
+        "population": 181600,
+        "area_km2": 38685
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [17.5, -18.0],
+            [18.0, -18.5],
+            [18.5, -19.0],
+            [19.0, -19.5],
+            [18.5, -18.0],
+            [17.5, -18.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otjozondjupa",
+        "fiber_status": "Active",
+        "population": 143600,
+        "area_km2": 105327
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [17.5, -20.0],
+            [18.0, -20.5],
+            [18.5, -21.0],
+            [19.0, -21.5],
+            [18.5, -20.0],
+            [17.5, -20.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zambezi",
+        "fiber_status": "Unavailable",
+        "population": 90400,
+        "area_km2": 14385
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [23.5, -18.0],
+            [24.0, -18.5],
+            [24.5, -19.0],
+            [25.0, -19.5],
+            [24.5, -18.0],
+            [23.5, -18.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
