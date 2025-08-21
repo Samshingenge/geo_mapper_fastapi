@@ -1,6 +1,10 @@
-# Namibia Geo-Coverage Mapper
+<img width="1156" height="551" alt="geo-mapper" src="https://github.com/user-attachments/assets/e5be51e9-3071-4b02-82a0-e2488f7cf905" /># Namibia Geo-Coverage Mapper
 
 A web application for visualizing fiber coverage across different regions in Namibia. This project provides an interactive map interface to view and manage fiber coverage status across various regions in Namibia.
+
+<img width="1156" height="551" alt="geo-mapper" src="https://github.com/user-attachments/assets/1f5bc81f-579a-4648-9fc2-eb6700c20eae" />
+
+
 
 ## Features
 
