@@ -36,7 +36,7 @@ A web application for visualizing fiber coverage across different regions in Nam
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/namibia-geo-coverage-mapper.git
+git clone https://github.com/Samshingenge/geo_mapper_fastapi.git
 cd namibia-geo-coverage-mapper
 ```
 
